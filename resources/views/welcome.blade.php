@@ -81,11 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    光岡駿
+                    まお
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
+                    <a href="https://www.google.com/?hl=fr">Google</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://blog.laravel.com">Blog</a>
