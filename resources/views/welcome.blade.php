@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    光岡駿
                 </div>
 
                 <div class="links">
